@@ -3,3 +3,4 @@ crewai==0.22.8
 groq
 langchain
 langchain-community
+python-dotenv
